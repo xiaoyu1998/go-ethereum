@@ -1,4 +1,4 @@
-## Go Ethereum
+# Go Ethereum
 
 Golang execution layer implementation of the Ethereum protocol.
 
@@ -60,9 +60,7 @@ make geth
   "gasLimit": "0x1c9c380"
 }
 ```
-the chainId is 1998
-The alloc public key should be the account to deploy contracts and run scripts
-The gasLimit is 30,000,000(0x1c9c380) as same as the mainnet
+The chainId is 1998, The alloc public key should be the account to deploy contracts and run scripts, The gasLimit is 30,000,000(0x1c9c380) as same as the mainnet
 
 #### Initialize `geth` node
 ```shell
