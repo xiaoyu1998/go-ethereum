@@ -12,6 +12,7 @@ https://pkg.go.dev/badge/github.com/ethereum/go-ethereum
 Automated builds are available for stable releases and the unstable master branch. Binary
 archives are published at https://geth.ethereum.org/downloads/.
 
+
 ## Building the source
 
 Download
@@ -26,6 +27,8 @@ Building `geth`
 ```shell
 make geth
 ```
+geth should be found in build/bin/geth
+
 
 ## Running `geth`
 
